@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/558/442/non_2x/vector-background-electronic-circuits-design.jpg");
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu{
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: teal;
+text-decoration: none;  
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: DeepSkyBlue		;
+  text-align: center;
+}
+
+  
